@@ -10,6 +10,6 @@ Nothing
  
 ## Usage 🛠️
 
-1. Generate Usernames:
+1. Generate Number:
    - Use the `gen.py` script to generate usernames.
     and enter the ammount of numbers
